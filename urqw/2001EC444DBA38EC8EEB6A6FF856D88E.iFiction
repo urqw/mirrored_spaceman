@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+	<story>
+		<identification>
+			<ifid>2001EC444DBA38EC8EEB6A6FF856D88E</ifid>
+			<format>urqw</format>
+		</identification>
+		<bibliographic>
+			<title>Зеркальный космонавт</title>
+			<author>Евгений Туголуков (Korwin)</author>
+			<language>ru</language>
+			<firstpublished>2013-01-30</firstpublished>
+			<genre>Фантастика</genre>
+			<group>URQ</group>
+			<description>Браслет-коммуникатор прервал твой сон немелодичной трелью. "Начальство", - подумал ты, - "Соединить." Появилось голографическое изображение знакомого лица. На связи был Командор Биг.<br/>- Привет, Виктор! Ты мне нужен. Я сегодня жду тебя там, где мы отмечали твое повышение. Не опаздывай...<br/>- Хорошо, Биг. Я понял...<br/>Квест о Викторе Викторовиче Санине, часть 2.</description>
+			<series>Виктор Викторович Санин</series>
+			<seriesnumber>2</seriesnumber>
+		</bibliographic>
+		<contacts>
+			<url>https://urqw.github.io/UrqW/#mirrored_spaceman</url>
+			<authoremail>tightbow@yandex.ru</authoremail>
+		</contacts>
+		<colophon>
+			<generator>UrqW Game Template</generator>
+			<originated>2025-11-21</originated>
+		</colophon>
+	</story>
+</ifindex>
